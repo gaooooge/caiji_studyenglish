@@ -53,6 +53,43 @@ class OneDay extends Controller
          *
          */
 
+    }
 
+    public function class2()
+    {
+        /**
+         * how's everything going？ 近来如何
+        just so so. 一般般
+        not bad！还不赖
+        very bad 非常差
+
+        提出请求：
+        may/can/could
+
+        同意（sure/certainly/of coures/ here you are/go ahead）
+        回绝（i'm afrid / i'm sorry/ i'm sorry you can't/you'd better not）
+
+        would you mind 介意 if my opening the window?
+        肯定回答表示介意 yes, you'd better not , i am feeling ill
+        否定回答表示不介意 no, go ahead
+
+        邀请和应答
+        would you like to ...?
+        can you come to ...?
+
+        祝愿赞美
+        good luck;
+
+        询问信息
+        how long
+        how far 距离
+        how much 价格 不可数
+        how many 可数名词数量
+        how often 频率
+        who/whom 人物
+        where 地点
+        when/at what time 时间
+        how 方式
+         */
     }
 }
