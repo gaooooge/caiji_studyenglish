@@ -92,4 +92,9 @@ class OneDay extends Controller
         how 方式
          */
     }
+
+    public function class3()
+    {
+        //先提交一波
+    }
 }
